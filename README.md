@@ -15,5 +15,5 @@
 
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/opiran-club/softether/main/opiran-seth)
+bash <(curl -s -L https://raw.githubusercontent.com/ldwnil/softether/refs/heads/main/opiran-seth)
 ```
